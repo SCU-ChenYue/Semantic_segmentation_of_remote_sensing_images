@@ -1,0 +1,2 @@
+# Semantic_segmentation_of_remote_sensing_images
+基于语义分割，对GEOTIFF格式的光学卫星遥感图像进行多种地表类型的实时面积计算，并进行时序预测。
